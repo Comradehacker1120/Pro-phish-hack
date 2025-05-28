@@ -39,6 +39,14 @@ chmod +x CmdPhish-HackPro.py
 python3 CmdPhish-HackPro.py
 ```
 
+## 🐍 Python Requirements
+
+This tool requires Python 3.x and the following packages:
+
+```bash
+pip3 install requests rich beautifulsoup4
+```
+
 ## 🚀 Usage Guide
 
 1. **Run the tool**:
